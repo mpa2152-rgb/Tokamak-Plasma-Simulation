@@ -50,8 +50,7 @@ This notebook was developed in Google Colab. To run it:
 - Visualizes VDE progression through sequential equilibrium snapshots
 - Animated plasma displacement over time
 
-![VDE simulation animation](assets/2026-05-05_matthew_vde (1).gif)!
-
+![VDE simulation animation](assets/2026-05-05_matthew_vde%20%281%29.gif)
 
 
 ## What I'd improve
